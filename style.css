@@ -4,6 +4,7 @@
     border: 2px solid black;
 
     display: grid;
+    margin-top: 5px;
 }
 
 .pix {
